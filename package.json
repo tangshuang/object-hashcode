@@ -1,0 +1,25 @@
+{
+  "name": "object-hashcode",
+  "version": "1.0.0",
+  "description": "This package is used to set `hashCode` property to a object.",
+  "main": "dist/object-hashcode.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tangshuang/object-hashcode.git"
+  },
+  "keywords": [
+    "object",
+    "hashcode"
+  ],
+  "author": "tangshuang",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^3.10.0"
+  }
+}
